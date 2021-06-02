@@ -1,0 +1,19 @@
+.gold{
+  font-size: 2rem;
+  color: goldenrod;
+  cursor: pointer;
+}
+.normal{
+  font-size: 2rem;
+  color: gray;
+  cursor: pointer;
+}
+.menu{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background-color: #000;
+  color:#fff;
+  height: 80px;
+  list-style: none;
+}
